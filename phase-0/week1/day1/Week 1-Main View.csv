@@ -1,0 +1,56 @@
+﻿Name,Day 1 Task 1,Day 1 Task 2,Day 1 Task 3,Day 1 Task 4,Day 1 Completion,Day 1 Notes
+FSJS-003 Bariqi Abdillah,100%,100%,100%,100%,100%,Well done!
+FSJS-003 Fadly Kayo,100%,100%,100%,100%,100%,"Good job, tapi input type ""button"" lebih baik disarankan dengan ""submit"""
+FSJS-003 Ida Bagus Chahya Dhegana,100%,100%,100%,100%,100%,Well done!
+FSJS-003 IQBAL SIDDIK,100%,100%,100%,100%,100%,"Sudah bagus, namun input type submit, atribut name nya tidak perlu ada"
+FSJS-003 Irwin Pratajaya,100%,100%,100%,100%,100%,Well done!
+FSJS-003 Timothy Ombun Giovanni Siahaan,100%,100%,100%,100%,100%,Well done!
+FSJS-003 Endy Santoso,100%,100%,100%,85%,96.25%,"1. Kurang tag title dalam head
+2. atribut for pada label perlu disamakan dengan id dari element input-nya
+
+[Best Practice]
+input type ""button"" lebih baik disarankan dengan ""submit"""
+FSJS-003 Muhammad Iqbal,100%,100%,100%,85%,96.25%,"Sudah bagus, tapi:
+1. textarea dan select tetap membutuh atribut name, namun atribut value tidak perlu diisi "
+FSJS-003 Samuel Partogi Hasudungan Sinaga,100%,100%,100%,85%,96.25%,Identation (penggunaan tab/menjorok ke dalam) untuk <table> dan <select> masih belum rapih.
+FSJS-003 Septian Mar'ie Muzaffar,100%,100%,100%,85%,96.25%,textarea tetap butuh atribut name
+FSJS-003 Tomy Satria,100%,100%,100%,85%,96.25%,"Sudah berfungsi, namun ada identation / tab <input> yang seharusnya di dalam form malah sejajar dengan <form>."
+FSJS-003 Triyan Arif Wibowo,100%,100%,100%,85%,96.25%,"1. select kurang atribut name dan value
+2. gunakan value pada input type submit"
+FSJS-003 Dale Watson,100%,100%,100%,70%,92.5%,"1. element html hanya boleh didalam <body> bukan <head>
+2. setiap element input butuh name
+3. checkbox perlu name yang sama untuk konteks yang sama."
+FSJS-003 Ginanjar Satia Permana,100%,100%,100%,70%,92.5%,"1. Gunakan tag label
+2. value radio button perlu disamakan dengan konteksnya 
+[BEST PRACTICE]: button perlu type submit"
+FSJS-003 Isumi Karinaningsih,100%,100%,100%,70%,92.5%,"1. recommend gunakan tag label 
+2. check box, nama perlu disamakan sesuai konteks"
+FSJS-003 Raditya Arya Pradipta,100%,100%,100%,70%,92.5%,"1. radio button kurang atribut name
+2. tidak menggunakan <label>
+3. tidak menggunakan atribut value"
+FSJS-003 ario ekowardhono,100%,100%,100%,50%,87.5%,1. Bagian form belum dikerjakan
+FSJS-003 Irfan Erika Ferdian,100%,100%,100%,50%,87.5%,"1. atribut name perlu disesuaikan, tidak boleh semua sama.
+2. untuk label gunakan tag <label>, bukan <p label>
+3. Recommend kirim source code atau gunakan editor online"
+FSJS-003 Sebastian Irsan,100%,100%,100%,50%,87.5%,"1. tag <form> hanya butuh digunakan sekali untuk sebuah form, bukan pada setiap element input
+2. setiap input element butuh atribut name"
+FSJS-003 brian wirawan chow,100%,100%,100%,25%,81.25%,"1. (Menjawab pertanyaan di form) online editor recommended: Jsbin, PasteBin, codepen, dll.
+2. setiap kali membuat form harus didalam tag <form></form>
+3. element input masih kurang, refer w3schools"
+FSJS-003 Achmad Kamil,0%,100%,100%,100%,75%,Belum kumpulkan tugas introduction
+FSJS-003 Muhammad Firman Pebrizal,100%,100%,100%,0%,75%,Belum mengerjakan Day 1 Task 4
+FSJS-003 Saiful H. Sahabu,100%,100%,100%,0%,75%,"Untuk Task 4 (HTML), harap upload file html nya tidak hanya screenshot."
+FSJS-003 yoma sofwan,100%,100%,100%,0%,75%,"Tugas 4 belum mengirimkan code nya, hanya baru screenshot"
+FSJS-003 Mangku Widodo,0%,100%,100%,85%,71.25%,"1. checkbox kurang value
+2. label for id respective input element"
+FSJS-003 Angga Prasetya Wibawa,0%,100%,100%,0%,50%,Task 4 (HTML Sederhana) belum menggunakan attribute name
+FSJS-003 Bambang Handoko,100%,100%,0%,0%,50%,Belum mengerjakan Task 3 (Codecademy unit 2) dan Task 4 (HTML Sederhana)
+FSJS-003 Didit Suryadi,100%,100%,0%,0%,50%,Belum mengerjakan Task 3 (Codecademy unit 2) dan Task 4 (HTML Sederhana)
+FSJS-003 Aditya Wira Nugraha,100%,0%,0%,0%,25%,"Salah mengerjakan tugas, harusnya codecademy HTML/CSS, bukan JavaScript"
+FSJS-003 Ahmad Ahmadi,100%,0%,0%,0%,25%,"Belum mengerjakan Task 2 (Codecademy unit 1), Task 3 (Codecademy unit 2) dan Task 4 (HTML Sederhana)"
+FSJS-003 Eri Irawan,100%,0%,0%,0%,25%,"Belum mengerjakan Task 2 (Codecademy unit 1), Task 3 (Codecademy unit 2) dan Task 4 (HTML Sederhana)"
+FSJS-003 Edim Dendi Diwangga,0%,0%,0%,0%,0%,Belum merespon Slack Group
+FSJS-003 Nabil Alkatiri,0%,0%,0%,0%,0%,Belum merespon Slack Group
+FSJS-003 nicko gardono,0%,0%,0%,0%,0%,Belum merespon Slack Group
+FSJS-003 Wahyu Hidayat,0%,0%,0%,0%,0%,Belum merespon Slack Group
+FSJS-003 Yusak Sulaeman,0%,0%,0%,0%,0%,Belum merespon Slack Group
